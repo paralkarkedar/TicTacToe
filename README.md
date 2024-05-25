@@ -1,6 +1,6 @@
 # Tic Tac Toe Game for Kids
 
-![Tic Tac Toe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTic-tac-toe&psig=AOvVaw3XeEcwAoZLyfbaw3E4sWA7&ust=1716722277473000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj83fzWqIYDFQAAAAAdAAAAABAE)
+![Tic Tac Toe](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1200px-Tic_tac_toe.svg.png)
 
 Welcome to the Tic Tac Toe game for kids! This project is a simple yet engaging game designed to entertain and challenge young minds. Below you'll find all the necessary information about the game, including features, installation instructions, usage, and more.
 
