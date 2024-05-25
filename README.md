@@ -1,6 +1,6 @@
 # Tic Tac Toe Game for Kids
 
-![Tic Tac Toe](path_to_image.png)
+![Tic Tac Toe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTic-tac-toe&psig=AOvVaw3XeEcwAoZLyfbaw3E4sWA7&ust=1716722277473000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj83fzWqIYDFQAAAAAdAAAAABAE)
 
 Welcome to the Tic Tac Toe game for kids! This project is a simple yet engaging game designed to entertain and challenge young minds. Below you'll find all the necessary information about the game, including features, installation instructions, usage, and more.
 
@@ -35,21 +35,11 @@ To install and run this game locally, follow these steps:
     ```bash
     cd tic-tac-toe-kids
     ```
-3. Install the necessary dependencies:
-    ```bash
-    npm install
-    ```
-4. Start the application:
-    ```bash
-    npm start
-    ```
+3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
-1. Open the game in your browser:
-    ```bash
-    http://localhost:3000
-    ```
+1. Open the game by opening the `index.html` file in your browser.
 2. The game board will be displayed. Player 1 uses 'X' and Player 2 uses 'O'.
 3. Click on any cell in the grid to make a move.
 4. The game will automatically announce the winner or a draw.
@@ -65,7 +55,7 @@ To install and run this game locally, follow these steps:
 
 ## Technologies Used
 
-- **React**: For building the user interface.
+- **HTML**: For structuring the game layout.
 - **CSS**: For styling the game.
 - **JavaScript**: For game logic and interactivity.
 
@@ -95,6 +85,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or feedback, please contact:
-- **Your Name**: your.email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
-
+- **Your Name**: kedarparalkar503@gmail.com
+- **GitHub**: (https://github.com/paralkarkedar)
